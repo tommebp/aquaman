@@ -1,14 +1,12 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 #list t?ng h?p t? nhi?u ngu?n, chúng tôi không nh?n donate c?ng như bán list
 
-#EXTINF:-1 tvg-id="sctv1hd" group-title="🍄| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/63.png", SCTV1 HD
-http://103.171.91.5/NgBewedPwR/f6yxYCZCKz/1.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="🍄| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/64.png", SCTV2 HD
 http://103.171.91.5/NgBewedPwR/f6yxYCZCKz/2.m3u8
 #EXTINF:-1 tvg-id="sctv3hd" group-title="🍄| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/65.png", SCTV3 HD
 http://103.171.91.5/NgBewedPwR/f6yxYCZCKz/3.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="🍄| SCTV" tvg-logo="https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/imaginary.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/tenants/none_tenant/photos/6_132935f2.jpg", SCTV6 HD
-http://103.171.91.5/wseQUBR4GQ/3zxpjdnHrK/6.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv6/index.m3u8
 #EXTINF:-1 tvg-id="sctv7hd" group-title="🍄| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/69.png", SCTV7 HD
 http://103.171.91.5/NgBewedPwR/f6yxYCZCKz/6.m3u8
 #EXTINF:-1 tvg-id="sctv8hd" group-title="🍄| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/70.png", SCTV8 HD
