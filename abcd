@@ -1,27 +1,27 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 #list t?ng h?p t? nhi?u ngu?n, chúng tôi không nh?n donate c?ng như bán list
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="VTV;Tin Tức" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg", VTV1 
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV;Tin Tức" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg", VTV1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36 https://thvip.site/360/2/index.m3u8 
-#EXTINF:0 tvg-id="vtv2hd" group-title="VTV;Khoa Học - Giáo Dục" tvg-logo="https://img.lichphatsong.xyz/logo/vtv2hd.jpg", VTV2 
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV;Khoa Học - Giáo Dục" tvg-logo="https://img.lichphatsong.xyz/logo/vtv2hd.jpg", VTV2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36 https://thvip.site/360/3/index.m3u8 
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV;Tin Tức" tvg-logo="https://img.lichphatsong.xyz/logo/vtv3hd.jpg", VTV3 
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV;Tin Tức" tvg-logo="https://img.lichphatsong.xyz/logo/vtv3hd.jpg", VTV3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36 https://thvip.site/360/4/index.m3u8 
-#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg", VTV4 
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg", VTV4 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36 https://thvip.site/360/108/index.m3u8 
-#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hd.jpg", VTV5 
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hd.jpg", VTV5 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36 https://thvip.site/360/110/index.m3u8 
-#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv6hd.jpg", VTV6 Cần Thơ 
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv6hd.jpg", VTV6 Cần Thơ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36 https://thvip.site/360/98/index.m3u8 
-#EXTINF:0 tvg-id="vtv7hd" group-title="VTV;Khoa Học - Giáo Dục" tvg-logo="https://img.lichphatsong.xyz/logo/vtv7hd.jpg", VTV7 
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV;Khoa Học - Giáo Dục" tvg-logo="https://img.lichphatsong.xyz/logo/vtv7hd.jpg", VTV7 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36 https://thvip.site/360/6/index.m3u8 
-#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv8hd.jpg", VTV8 
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv8hd.jpg", VTV8 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36 https://thvip.site/360/115/index.m3u8 
-#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv9hd.jpg", VTV9 
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv9hd.jpg", VTV9 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36 https://thvip.site/360/8/index.m3u8
-#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hdtnb.png", VTV5 Tây Nam Bộ 
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hdtnb.png", VTV5 Tây Nam Bộ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36 https://thvip.site/360/157/index.m3u8
-#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hdtn.png", VTV5 Tây Nguyên
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hdtn.png", VTV5 Tây Nguyên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36 https://thvip.site/360/207/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv2hd" group-title="🍄| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/64.png", SCTV2 HD
