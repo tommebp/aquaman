@@ -40,14 +40,11 @@ http://103.171.91.5/NgBewedPwR/f6yxYCZCKz/21.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="🍄| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/102.png", SCTV HD Phim Tổng Hợp
 http://103.171.91.5/NgBewedPwR/f6yxYCZCKz/22.m3u8
 
-#EXTINF:0 type="stream" group-title="nam bo" tvg-id="vinhlong1hd" tvg-logo="https://i.ibb.co/PGxCzX8/ccVL1.webp", vinh long 1
+#EXTINF:-1 tvg-id="vinh long 1" group-title="Nam bo" tvg-id="vinhlong1hd" tvg-logo="https://i.ibb.co/PGxCzX8/ccVL1.webp", vinh long 1
 https://oipf0znpmnliv.vcdn.cloud/hls/thvl1/index.m3u8
-#EXTINF:0 type="stream" group-title="nam bo" tvg-id="vinhlong2hd" tvg-logo="https://i.ibb.co/0FDCSbz/ccVL2.webp", vinh long 2
+#EXTINF:-1 tvg-id="vinh long 2" group-title="Nam bo" tvg-id="vinhlong2hd" tvg-logo="https://i.ibb.co/0FDCSbz/ccVL2.webp", vinh long 2
 https://oipf0znpmnliv.vcdn.cloud/hls/thvl2/index.m3u8
-#EXTINF:0 type="stream" group-title="nam bo" tvg-id="vinhlong3hd" tvg-logo="https://i.ibb.co/xg7jXGs/ccVL3.webp", vinh long 3
-https://oipf0znpmnliv.vcdn.cloud/hls/thvl3/index.m3u8
-#EXTINF:0 type="stream" group-title="nam bo" tvg-id="vinhlong4hd" tvg-logo="https://i.ibb.co/74ydSzT/ccVL4.webp", vinh long 4
-https://oipf0znpmnliv.vcdn.cloud/hls/thvl4/index.m3u8 
+
 
 #EXTINF:-1 tvg-id="fashionhd" group-title="♻️| Giải trí & News" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/09/z0jubbv7_ngang-fsffe1b9bc939c22d5c768a6ff67462773_296_168.png", Fashion TV 
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2678000_t64NzIwcA==.m3u8
