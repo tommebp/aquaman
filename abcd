@@ -1,25 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 #list t?ng h?p t? nhi?u ngu?n, chúng tôi không nh?n donate c?ng như bán list
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="??| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
-https://live-on-vng.sigmaott.com/manifest/vtv1/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="??| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
-https://live-on-akm.akamaized.net/manifest/vtv2/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="??| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
-https://live-on-akm.akamaized.net/manifest/vtv3/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" group-title="??| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4
-https://live-on-akm.akamaized.net/manifest/vtv4/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="??| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
-https://live-on-akm.akamaized.net/manifest/vtv5/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="??| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV C?n Thơ
-https://live-on-vng.sigmaott.com/manifest/vtv6/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-title="??| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7
-https://live-on-akm.akamaized.net/manifest/vtv7/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-title="??| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8
-https://live-on-akm.akamaized.net/manifest/vtv8/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="??| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png", VTV9
-https://live-on-akm.akamaized.net/manifest/vtv9/playlist_1080p.m3u8
-
 #EXTINF:-1 tvg-id="sctv1hd" group-title="🍄| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/63.png", SCTV1 HD
 http://103.171.91.5/NgBewedPwR/f6yxYCZCKz/1.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="🍄| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/64.png", SCTV2 HD
