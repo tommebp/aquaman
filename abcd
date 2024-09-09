@@ -77,10 +77,13 @@ https://oipf0znpmnliv.vcdn.cloud/hls/thvl2/index.m3u8
 
 
 #EXTINF:-1 tvg-id="fashionhd" group-title="♻️| Giải trí & News" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/09/z0jubbv7_ngang-fsffe1b9bc939c22d5c768a6ff67462773_296_168.png", Fashion TV 
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2678000_t64NzIwcA==.m3u8
+https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
+#EXTINF:-1 tvg-id="fashionhd" group-title="♻️| Giải trí & News" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/09/z0jubbv7_ngang-fsffe1b9bc939c22d5c768a6ff67462773_296_168.png", Fashion Russian 
+https://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
+#EXTINF:-1 tvg-id="fashionhd" group-title="♻️| Giải trí & News" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/09/z0jubbv7_ngang-fsffe1b9bc939c22d5c768a6ff67462773_296_168.png", Fashion English 
+https://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
 #EXTINF:-1 tvg-id="lovenature" group-title="♻️| Giải trí & News" tvg-logo="https://www.ifcmedia.sk/wp-content/uploads/2021/03/image-11.png", Love Nature 4k
 https://lnc-love-nature.tubi.video/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="hbohd" group-title="🎬| Phim truyện" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/09/rtj1fwg1_ngang-hbo5488cb97fc2af048dc243a9fd848ce17_296_168.png", HBO HD
 https://khanggtivi.xyz/vuminhthanh/vmt2024/hbo/index.m3u8
