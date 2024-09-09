@@ -34,7 +34,7 @@ https://thvip.site/360/157/index.m3u8
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hdtn.png", VTV5 Tây Nguyên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36 
 https://thvip.site/360/207/index.m3u8
-#EXTINF:0 type="stream" group-title="An ninh" tvg-id="antvhd" tvg-logo="https://i.ibb.co/P6ZDPCf/ccanninh.webp",An Ninh TV
+#EXTINF:0 tvg-id="antvhd" tvg-logo="https://i.ibb.co/P6ZDPCf/ccanninh.webp",An Ninh TV
 https://lives.antv.gov.vn/channel/antv/channel/antv_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="sctv2hd" group-title="🍄| SCTV" tvg-logo=https://i.ibb.co/92YZY2r/ccsctv2.webp", SCTV2 HD
