@@ -78,7 +78,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hhkungfu.shop&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 12624,
+        "fileSize": 19333,
         "status": 1,
         "authors": [
             "anhdadendaden"
@@ -87,7 +87,7 @@
             "Anime",
             "AnimeMovie"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "HHkungfuProvider",
         "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c vietsub",
         "url": "https://abyss-api-two.vercel.app/download?folder=anime&file=HHkungfuProvider_1728784018.cs3",
@@ -204,26 +204,6 @@
         "internalName": "NguonCProvider",
         "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=NguonCProvider_1728784018.cs3",
         "name": "NguonCProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=ohaytv.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 15934,
-        "status": 1,
-        "authors": [
-            "anhdadendaden"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "OHayTvProvider",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=OHayTvProvider_1728784018.cs3",
-        "name": "OHayTvProvider"
     },
     {
         "iconUrl": "https://ophim16.cc/icon_ophim.png",
@@ -371,11 +351,12 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=uncutmaza.cc&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 185895,
+        "repositoryUrl": "https://github.com/Rowdy-Avocado/Rowdycado-Extensions",
+        "fileSize": 333971,
         "status": 1,
+        "language": "en",
         "authors": [
-            "anhdadendaden"
+            "KillerDogeEmpire, Phisher98, Hexated, Sora"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -383,10 +364,10 @@
             "Anime",
             "Movie"
         ],
-        "version": 8,
-        "internalName": "ViStream",
+        "version": 10,
+        "internalName": "CodeStream",
         "description": "#1 best extention based on MultiAPI",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=ViStream_1728784018.cs3",
-        "name": "ViStream"
+        "url": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/CodeStream.cs3",
+        "name": "CodeStream"
     }
 ]
