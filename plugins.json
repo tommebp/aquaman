@@ -37,7 +37,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 23593,
+        "fileSize": 26856,
         "status": 1,
         "authors": [
             "anhdadendaden"
@@ -48,7 +48,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 9,
+        "version": 10,
         "internalName": "BluphimProvider",
         "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=BluphimProvider_1728784018.cs3",
         "name": "BluphimProvider"
@@ -134,7 +134,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
         "fileSize": 19910,
-        "status": 1,
+        "status": 0,
         "authors": [
             "anhdadendaden"
         ],
@@ -147,23 +147,6 @@
         "internalName": "HotphimProvider",
         "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=HotphimProvider_1728784018.cs3",
         "name": "HotphimProvider"
-    },
-    {
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 29043,
-        "status": 1,
-        "authors": [
-            "anhdadendaden"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 4,
-        "internalName": "IPTVProvider",
-        "description": "C\u1ea7n nh\u1eadp link iptv \u0111\u1ec3 xem",
-        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=IPTVProvider_1728784018.cs3",
-        "name": "IPTVProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=kkphim.vip&sz=%size%",
@@ -206,6 +189,26 @@
         "name": "NguonCProvider"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ohaytv.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
+        "fileSize": 15934,
+        "status": 1,
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "OHayTvProvider",
+        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=OHayTvProvider_1728784018.cs3",
+        "name": "OHayTvProvider"
+    },
+    {
         "iconUrl": "https://ophim16.cc/icon_ophim.png",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
@@ -240,7 +243,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 7,
+        "version": 9,
         "internalName": "PhimLongTiengProvider",
         "description": "Phim TVB",
         "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=PhimLongTiengProvider_1728784018.cs3",
@@ -343,7 +346,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "VipphimProvider",
         "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=VipphimProvider_1728784018.cs3",
         "name": "VipphimProvider"
@@ -351,12 +354,12 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=uncutmaza.cc&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Rowdy-Avocado/Rowdycado-Extensions",
-        "fileSize": 333971,
+        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
+        "fileSize": 204037,
         "status": 1,
-        "language": "en",
         "authors": [
-            "KillerDogeEmpire, Phisher98, Hexated, Sora"
+            "anhdadendaden",
+            "hexated"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -364,10 +367,10 @@
             "Anime",
             "Movie"
         ],
-        "version": 10,
-        "internalName": "CodeStream",
+        "version": 14,
+        "internalName": "ViStream",
         "description": "#1 best extention based on MultiAPI",
-        "url": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/CodeStream.cs3",
-        "name": "CodeStream"
+        "url": "https://abyss-api-two.vercel.app/download?folder=movie&file=ViStream_1728784018.cs3",
+        "name": "ViStream"
     }
 ]
